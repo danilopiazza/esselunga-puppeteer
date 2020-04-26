@@ -1,0 +1,22 @@
+{
+  "name": "esselunga-puppeteer",
+  "version": "0.0.1",
+  "description": "Puppeteer bot for the \"Esselunga a casa\" online shopping website",
+  "main": "index.js",
+  "scripts": {
+    "run": "./run.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danilopiazza/esselunga-puppeteer.git"
+  },
+  "author": "Danilo Piazzalunga <danilopiazza@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pino": "^6.2.1",
+    "puppeteer": "^3.0.1",
+    "underscore": "^1.10.2"
+  }
+}
