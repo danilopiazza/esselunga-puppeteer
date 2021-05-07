@@ -17,6 +17,6 @@
     "dotenv": "^8.2.0",
     "pino": "^6.2.1",
     "puppeteer": "^3.0.1",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
